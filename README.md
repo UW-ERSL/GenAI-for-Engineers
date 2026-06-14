@@ -11,7 +11,7 @@ This repository contains resources to accompany the book:
 > *Generative AI for Engineers: Building Better Engineers in the AI Era*
 > Krishnan Suresh · First Edition · 2026
 > ISBN: 979-8-19-530106-4
-> [Available on Amazon](#) <!-- replace with actual Amazon link -->
+> Will be soon available on Amazon
 
 ---
 
