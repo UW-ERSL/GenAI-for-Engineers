@@ -32,7 +32,7 @@ Both frameworks are discipline-independent and are developed through worked exam
 
 | File | Description |
 |------|-------------|
-| [`GUARD_SPAR_reference_card.md`](./GUARD_SPAR_reference_card.md) | Student quick-reference card for both frameworks, with AI prompt blocks for automation |
+| [`GUARD_SPAR_Reference_Card.md`](./GUARD_SPAR_Reference_Card.md) | Student quick-reference card for both frameworks, with AI prompt blocks for automation |
 
 Additional resources will be added as the book develops.
 
