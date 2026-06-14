@@ -78,4 +78,6 @@ The resources in this repository are released under the [CC0 1.0 Universal](./LI
 
 Krishnan Suresh · [ersl.wisc.edu](https://ersl.wisc.edu) · University of Wisconsin–Madison
 
-For questions about the book, corrections to the reference card, or classroom use, please open an [issue](https://github.com/UW-ERSL/GenAI-for-Engineers/issues).
+For corrections or suggestions on the reference card, open an
+[issue](https://github.com/UW-ERSL/GenAI-for-Engineers/issues).
+For feedback on the book itself, email [ksuresh@wisc.edu](mailto:ksuresh@wisc.edu).
